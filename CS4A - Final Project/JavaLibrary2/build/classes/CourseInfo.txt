@@ -1,0 +1,15 @@
+10 20 ACCT 1A Financial Accounting
+10 20 ACCT 1B Managerial Accounting
+15 50 BIO 1 The Life Science
+10 25 BIO 1L The Life Science Laboratory
+15 50 BIO 5 Animal Biology
+10 30 CS 1A Introduction To Computer Science I
+10 30 CS 1B Introduction To Computer Science II
+10 30 CS 1C Introduction To Computer Science III
+10 30 CS 1D Data Structure
+10 30 CS 4A Introduction To Java
+10 40 FILM 40 Mass Media And Society
+10 50 MATH 2 Pre Calculus
+10 50 MATH 3A Analytic Geometry And Calculus I
+10 50 MATH 3B Analytic Geometry And Calculus II
+10 35 MUC 1 The Basis Of Music

@@ -1,0 +1,19 @@
+Dolan, Aguilar, mi@pellentesquetellussem.com, 164-20528-2769, Ap #453-8217 Eu Ave, Metro, Nevada, 89193, 05/03/2009, True, CS1A, CS4A
+Kaye, Mcfarland, nisi.nibh.lacinia@feugiat.org, 164-20909-4525, 850 Mollis Street, Austin, Kentucky, 40546, 01/30/2016, False, BIO1, BIO1L
+Holmes, Gregory, sit.amet.diam@dolorDonecfringilla.ca, 166-40913-4993, 3576 Eu Ave, Gimpo, Minnesota, 55585, 09/27/2005, True, CS1A
+Jemima, Cruz, non.justo@velitduisemper.com, 163-50119-5733, 3758 Rhoncus. Avenue, Palermo, Texas, 78726, 08/08/2013, True, CS4A
+Eagan, Nicholson, Nulla.interdum.Curabitur@Integer.com, 164-50625-3139, 6331 Rutrum Rd., Dublin, California, 92121, 09/25/2003, False, MATH2, MATH3A
+Odessa, Jones, magna.Phasellus@velfaucibusid.co.uk, 166-70605-7459, 244 Adipiscing, Austin, Texas, 88579, 09/16/2010, False, MATH3B
+Cailin, Burke, et@etultricesposuere.edu, 165-60301-8663, 6955 Ornare St., Great Falls, California, 92415, 09/01/2008, True, CS1C, CS1D
+Britanni, Bishop, felis.orci.adipiscing@nislNullaeu.ca, 161-61213-4757, 9116 Nunc Rd., Bendigo, Nevada, 89145, 01/24/2015, True, ACCT1A, MUC1
+Hector, Saunders, sapien@lacusvariuset.edu, 166-70205-0193, 8274 Mi. Avenue, Nushki, Michigan, 49018, 06/14/2003, False, ACCT1B
+Martena, Shepard, faucibus.lectus@ac.net, 166-50523-3475, 7025 Vitae St., Sevsk, California, 94291, 08/25/2018, False, FILM40
+Gretchen, West, dis.parturient.montes@idenimCurabitur.net, 166-70517-7654, 9687 Euismod Av., Cork, Alaska, 99709, 07/11/2000, True, ACCT1A, FILM40
+Bruno, Wilkerson, tincidunt.nibh.Phasellus@auctorMaurisvel.edu, 168-90522-9418, 2989 Gravida St., Berlin, New York, 10454, 02/20/2007, False, CS1D
+Leo, Whitfield, commodo.at@ipsum.com, 164-80924-3902, 1783 Lectus St., Montreal, Virginia, 22036, 12/18/2000, True, CS4A, MATH3B
+Gail, Ball, nisi.a.odio@ad.com, 166-90627-3336, 7366 Dui St., Białystok, California, 93726, 04/26/2006, False, MATH2, MATH3A
+Fitzgerald, Wilkinson, Aenean@tellusloremeu.com, 167-70615-0666, 832 Elit St., Silius, Washington, 98109, 08/20/2020, True, CS1C
+Shana, Mason, neque@enimSednulla.com, 163-70628-1098, 571 Molestie St., Haarlem, Arizona, 85260, 07/08/2020, True, CS1B
+Nathan, Jones, elit.pharetra@vel.org, 168-70314-3803, 4976 Dis Ave, Akhisar, Texas, 76505, 01/30/2006, True, CS1B
+Denton, Dotson, feugiat.nec.diam@tortordictumeu.org, 161-50604-0458, 2568 Pharetra St., Minneapolis, Florida, 33448, 09/08/2013, False, MATH3A, MATH3B
+Kasper, Mckay, sed.dolor.Fusce@consequatnecmollis.com, 165-10811-2151, 5189 Nec Street, Wichita, New York, 10184, 08/06/2018, False, MUC1

@@ -1,0 +1,40 @@
+Name: Austin Leopold
+Email: gleopoldr@harvard.edu
+Telephone: 561-440-9866
+Address: 34976 Bonner Plaza, Delray Beach, Florida 23448
+Personal ID: 139
+Birth Date: 06/22/1993
+Current GPA: 1.26
+Date Enrolled: 03/07/2019
+-----
+
+Name: Andrew Huddlestone
+Email: ahuddlestonev@jimdo.com
+Telephone: 401-452-2886
+Address: 41669 Anniversary, Providence, Rhode Island 2905
+Personal ID: 147
+Birth Date: 12/11/1990
+Current GPA: 1.79
+Date Enrolled: 10/26/2018
+-----
+
+Name: Ailis Moors
+Email: amoors13@rambler.ru
+Telephone: 415-897-4601
+Address: 2865 Mallory Circle, San Francisco, California 94159
+Personal ID: 126
+Birth Date: 03/13/1998
+Current GPA: 1.14
+Date Enrolled: 09/11/2018
+-----
+
+Name: Maurene Weatherby
+Email: mweatherby1c@google.pl
+Telephone: 816-725-5242
+Address: 870 Derek Park, Kansas City, Missouri 64153
+Personal ID: 32
+Birth Date: 11/25/1991
+Current GPA: 3.57
+Date Enrolled: 06/23/2018
+-----
+

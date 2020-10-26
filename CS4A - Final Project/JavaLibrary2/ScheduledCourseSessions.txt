@@ -1,0 +1,336 @@
+CS1A:  Introduction To Computer Science I 
+Instructor: Dolan Aguilar
+ID: #12
+Students: 11
+
+Brockie Woollhead
+ID: #97
+
+Margie O'Giany
+ID: #71
+
+Damien Kennally
+ID: #45
+
+Padget Garrison
+ID: #91
+
+Trixie Gresser
+ID: #99
+
+Sarine Claybourn
+ID: #140
+
+Garek Halstead
+ID: #125
+
+Allen Balsom
+ID: #1
+
+Bria Bisgrove
+ID: #7
+
+Ondrea Hartnell
+ID: #41
+
+Glyn Smee
+ID: #46
+
+
+
+
+
+
+BIO5:  Animal Biology 
+Instructor: <Undefined> <Undefined>
+ID: #<Undefined>
+Students: 18
+
+Brockie Woollhead
+ID: #97
+
+Margie O'Giany
+ID: #71
+
+Joseito Pimme
+ID: #53
+
+Aurelia Jesper
+ID: #101
+
+Trixie Gresser
+ID: #99
+
+Morena Joly
+ID: #58
+
+Sarine Claybourn
+ID: #140
+
+Colman Glasard
+ID: #39
+
+Garek Halstead
+ID: #125
+
+Allen Balsom
+ID: #1
+
+Lanae Ilchenko
+ID: #82
+
+Aldwin Gilhool
+ID: #75
+
+Bria Bisgrove
+ID: #7
+
+Mayor Cocci
+ID: #77
+
+Stuart Bramsen
+ID: #81
+
+Ondrea Hartnell
+ID: #41
+
+Glyn Smee
+ID: #46
+
+Melanie Langmaid
+ID: #149
+
+
+
+CS1A:  Introduction To Computer Science I 
+Instructor: Dolan Aguilar
+ID: #12
+Students: 11
+
+Brockie Woollhead
+ID: #97
+
+Margie O'Giany
+ID: #71
+
+Damien Kennally
+ID: #45
+
+Padget Garrison
+ID: #91
+
+Trixie Gresser
+ID: #99
+
+Sarine Claybourn
+ID: #140
+
+Garek Halstead
+ID: #125
+
+Allen Balsom
+ID: #1
+
+Bria Bisgrove
+ID: #7
+
+Ondrea Hartnell
+ID: #41
+
+Glyn Smee
+ID: #46
+
+
+
+
+
+CS1D:  Data Structure 
+Instructor: Bruno Wilkerson
+ID: #23
+Students: 14
+
+Greg Vaulkhard
+ID: #59
+
+Joseito Pimme
+ID: #53
+
+Evonne Pyne
+ID: #65
+
+Lenard Dunsford
+ID: #31
+
+Cart Kirtland
+ID: #34
+
+James Huggill
+ID: #127
+
+Belva Toynbee
+ID: #92
+
+Fredia Garry
+ID: #76
+
+Mario Shevell
+ID: #68
+
+Currey Maccrea
+ID: #112
+
+Hynda Yvens
+ID: #95
+
+Elysia Bilyard
+ID: #87
+
+Camile Piddle
+ID: #78
+
+Harmon Pugh
+ID: #118
+
+
+
+CS4A:  Introduction To Java 
+Instructor: Jemima Cruz
+ID: #7
+Students: 13
+
+Greg Vaulkhard
+ID: #59
+
+Evonne Pyne
+ID: #65
+
+Lenard Dunsford
+ID: #31
+
+Cart Kirtland
+ID: #34
+
+James Huggill
+ID: #127
+
+Belva Toynbee
+ID: #92
+
+Fredia Garry
+ID: #76
+
+Mario Shevell
+ID: #68
+
+Currey Maccrea
+ID: #112
+
+Hynda Yvens
+ID: #95
+
+Elysia Bilyard
+ID: #87
+
+Camile Piddle
+ID: #78
+
+Harmon Pugh
+ID: #118
+
+
+
+
+
+MATH3A:  Analytic Geometry And Calculus I 
+Instructor: Gail Ball
+ID: #34
+Students: 28
+
+Brockie Woollhead
+ID: #97
+
+Margie O'Giany
+ID: #71
+
+Padget Garrison
+ID: #91
+
+Joseito Pimme
+ID: #53
+
+Aurelia Jesper
+ID: #101
+
+Trixie Gresser
+ID: #99
+
+Ransell Harroway
+ID: #20
+
+Sarine Claybourn
+ID: #140
+
+James Huggill
+ID: #127
+
+Colman Glasard
+ID: #39
+
+Garek Halstead
+ID: #125
+
+Bernie Branford
+ID: #25
+
+Allen Balsom
+ID: #1
+
+Lanae Ilchenko
+ID: #82
+
+Amie Medmore
+ID: #18
+
+Aldwin Gilhool
+ID: #75
+
+Fredia Garry
+ID: #76
+
+Bria Bisgrove
+ID: #7
+
+Mayor Cocci
+ID: #77
+
+Katus Carlson
+ID: #120
+
+Hynda Yvens
+ID: #95
+
+Stuart Bramsen
+ID: #81
+
+Ondrea Hartnell
+ID: #41
+
+Elysia Bilyard
+ID: #87
+
+Benede Satford
+ID: #37
+
+Harmon Pugh
+ID: #118
+
+Glyn Smee
+ID: #46
+
+Melanie Langmaid
+ID: #149
+
+
+
+
+

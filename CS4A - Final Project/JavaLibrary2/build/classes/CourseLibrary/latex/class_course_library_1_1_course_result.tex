@@ -1,0 +1,97 @@
+\hypertarget{class_course_library_1_1_course_result}{}\doxysection{Course\+Library.\+Course\+Result Class Reference}
+\label{class_course_library_1_1_course_result}\index{CourseLibrary.CourseResult@{CourseLibrary.CourseResult}}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_course_library_1_1_course_result_a7228896458fb048e5a512e066e14f5da}\label{class_course_library_1_1_course_result_a7228896458fb048e5a512e066e14f5da}} 
+{\bfseries Course\+Result} (String file\+Name, Array\+List$<$ \mbox{\hyperlink{class_course_library_1_1_course}{Course}} $>$ courses, Course\+Schedule schedule)  throws Exception     
+\item 
+\mbox{\Hypertarget{class_course_library_1_1_course_result_ae839cd38c40a934b9790c6a2e4fc60de}\label{class_course_library_1_1_course_result_ae839cd38c40a934b9790c6a2e4fc60de}} 
+void {\bfseries set\+Output} (Print\+Writer output)
+\item 
+\mbox{\Hypertarget{class_course_library_1_1_course_result_ae6e286a3f1aebff311884426bc5a3dd0}\label{class_course_library_1_1_course_result_ae6e286a3f1aebff311884426bc5a3dd0}} 
+void {\bfseries set\+Output} (String pathname)  throws File\+Not\+Found\+Exception      
+\item 
+\mbox{\Hypertarget{class_course_library_1_1_course_result_a0762d6c6db278ef35fba43864cd50a00}\label{class_course_library_1_1_course_result_a0762d6c6db278ef35fba43864cd50a00}} 
+Array\+List$<$ \mbox{\hyperlink{class_course_library_1_1_course}{Course}} $>$ {\bfseries get\+Courses} ()
+\item 
+\mbox{\Hypertarget{class_course_library_1_1_course_result_a42ab8fbd8a7d1e50b4431cb63075fd87}\label{class_course_library_1_1_course_result_a42ab8fbd8a7d1e50b4431cb63075fd87}} 
+void {\bfseries set\+Courses} (Array\+List$<$ \mbox{\hyperlink{class_course_library_1_1_course}{Course}} $>$ courses)
+\item 
+\mbox{\Hypertarget{class_course_library_1_1_course_result_aa2f3d744961941e0c9cdcbae5eadea63}\label{class_course_library_1_1_course_result_aa2f3d744961941e0c9cdcbae5eadea63}} 
+Course\+Schedule {\bfseries get\+Schedule} ()
+\item 
+\mbox{\Hypertarget{class_course_library_1_1_course_result_af79398cf2cf60b9236001fdc8314c17a}\label{class_course_library_1_1_course_result_af79398cf2cf60b9236001fdc8314c17a}} 
+void {\bfseries set\+Schedule} (Course\+Schedule schedule)
+\item 
+void \mbox{\hyperlink{class_course_library_1_1_course_result_ad4be8a5c65bde5c31c9049c3d02642e1}{print\+Scheduled\+Courses}} ()
+\item 
+void \mbox{\hyperlink{class_course_library_1_1_course_result_a9649f779ab6132744967513082ffc57e}{print\+Unscheduled\+Courses}} ()
+\item 
+int \mbox{\hyperlink{class_course_library_1_1_course_result_a7a2f1f98e963d28c6971489187a054e7}{get\+Num\+Courses}} ()
+\item 
+int \mbox{\hyperlink{class_course_library_1_1_course_result_a562051e4c8bf1c369935541de0cbe92a}{get\+Scheduled\+Sessions}} ()
+\item 
+int \mbox{\hyperlink{class_course_library_1_1_course_result_ad4ef20d21ac72620c7e26b2503390ab7}{get\+Scheduled\+Courses}} ()
+\item 
+int \mbox{\hyperlink{class_course_library_1_1_course_result_a809d87a1b50b28291da4f106693dfda5}{get\+Unscheduled\+Courses}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+This class interact with the Course\+Schedule to get the final information of each courses. It will output the result into a new text file 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_course_library_1_1_course_result_a7a2f1f98e963d28c6971489187a054e7}\label{class_course_library_1_1_course_result_a7a2f1f98e963d28c6971489187a054e7}} 
+\index{CourseLibrary.CourseResult@{CourseLibrary.CourseResult}!getNumCourses@{getNumCourses}}
+\index{getNumCourses@{getNumCourses}!CourseLibrary.CourseResult@{CourseLibrary.CourseResult}}
+\doxysubsubsection{\texorpdfstring{getNumCourses()}{getNumCourses()}}
+{\footnotesize\ttfamily int Course\+Library.\+Course\+Result.\+get\+Num\+Courses (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Get the total courses \begin{DoxyReturn}{Returns}
+total course 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_course_library_1_1_course_result_ad4ef20d21ac72620c7e26b2503390ab7}\label{class_course_library_1_1_course_result_ad4ef20d21ac72620c7e26b2503390ab7}} 
+\index{CourseLibrary.CourseResult@{CourseLibrary.CourseResult}!getScheduledCourses@{getScheduledCourses}}
+\index{getScheduledCourses@{getScheduledCourses}!CourseLibrary.CourseResult@{CourseLibrary.CourseResult}}
+\doxysubsubsection{\texorpdfstring{getScheduledCourses()}{getScheduledCourses()}}
+{\footnotesize\ttfamily int Course\+Library.\+Course\+Result.\+get\+Scheduled\+Courses (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Get the scheduled courses \begin{DoxyReturn}{Returns}
+total amount of scheduled courses 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_course_library_1_1_course_result_a562051e4c8bf1c369935541de0cbe92a}\label{class_course_library_1_1_course_result_a562051e4c8bf1c369935541de0cbe92a}} 
+\index{CourseLibrary.CourseResult@{CourseLibrary.CourseResult}!getScheduledSessions@{getScheduledSessions}}
+\index{getScheduledSessions@{getScheduledSessions}!CourseLibrary.CourseResult@{CourseLibrary.CourseResult}}
+\doxysubsubsection{\texorpdfstring{getScheduledSessions()}{getScheduledSessions()}}
+{\footnotesize\ttfamily int Course\+Library.\+Course\+Result.\+get\+Scheduled\+Sessions (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Get the scheduled session \begin{DoxyReturn}{Returns}
+total amount of scheduled sessions 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_course_library_1_1_course_result_a809d87a1b50b28291da4f106693dfda5}\label{class_course_library_1_1_course_result_a809d87a1b50b28291da4f106693dfda5}} 
+\index{CourseLibrary.CourseResult@{CourseLibrary.CourseResult}!getUnscheduledCourses@{getUnscheduledCourses}}
+\index{getUnscheduledCourses@{getUnscheduledCourses}!CourseLibrary.CourseResult@{CourseLibrary.CourseResult}}
+\doxysubsubsection{\texorpdfstring{getUnscheduledCourses()}{getUnscheduledCourses()}}
+{\footnotesize\ttfamily int Course\+Library.\+Course\+Result.\+get\+Unscheduled\+Courses (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Get the Unscheduled courses \begin{DoxyReturn}{Returns}
+total amount of unscheduled courses 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_course_library_1_1_course_result_ad4be8a5c65bde5c31c9049c3d02642e1}\label{class_course_library_1_1_course_result_ad4be8a5c65bde5c31c9049c3d02642e1}} 
+\index{CourseLibrary.CourseResult@{CourseLibrary.CourseResult}!printScheduledCourses@{printScheduledCourses}}
+\index{printScheduledCourses@{printScheduledCourses}!CourseLibrary.CourseResult@{CourseLibrary.CourseResult}}
+\doxysubsubsection{\texorpdfstring{printScheduledCourses()}{printScheduledCourses()}}
+{\footnotesize\ttfamily void Course\+Library.\+Course\+Result.\+print\+Scheduled\+Courses (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Display Scheduled Courses \mbox{\Hypertarget{class_course_library_1_1_course_result_a9649f779ab6132744967513082ffc57e}\label{class_course_library_1_1_course_result_a9649f779ab6132744967513082ffc57e}} 
+\index{CourseLibrary.CourseResult@{CourseLibrary.CourseResult}!printUnscheduledCourses@{printUnscheduledCourses}}
+\index{printUnscheduledCourses@{printUnscheduledCourses}!CourseLibrary.CourseResult@{CourseLibrary.CourseResult}}
+\doxysubsubsection{\texorpdfstring{printUnscheduledCourses()}{printUnscheduledCourses()}}
+{\footnotesize\ttfamily void Course\+Library.\+Course\+Result.\+print\+Unscheduled\+Courses (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Display Unscheduled C\+Ourses 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Course\+Result.\+java\end{DoxyCompactItemize}

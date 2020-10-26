@@ -1,0 +1,36 @@
+ACCT1B
+Min Students: 10
+
+
+BIO1
+Min Students: 15
+
+
+BIO1L
+Min Students: 10
+
+
+CS1B
+Min Students: 10
+
+
+CS1C
+Min Students: 10
+
+
+FILM40
+Min Students: 10
+
+
+MATH2
+Min Students: 10
+
+
+MATH3B
+Min Students: 10
+
+
+MUC1
+Min Students: 10
+
+

@@ -1,0 +1,89 @@
+\hypertarget{class_student_library_1_1_student_result}{}\doxysection{Student\+Library.\+Student\+Result Class Reference}
+\label{class_student_library_1_1_student_result}\index{StudentLibrary.StudentResult@{StudentLibrary.StudentResult}}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_student_library_1_1_student_result_ac29952eb01fbf6bea9c43ec2ea50832d}\label{class_student_library_1_1_student_result_ac29952eb01fbf6bea9c43ec2ea50832d}} 
+{\bfseries Student\+Result} (String file\+Name, Array\+List$<$ \mbox{\hyperlink{class_student_library_1_1_student}{Student}} $>$ students, Course\+Schedule schedule)  throws Exception     
+\item 
+\mbox{\Hypertarget{class_student_library_1_1_student_result_a4ef6343bb49b45d156a63b046cf89cda}\label{class_student_library_1_1_student_result_a4ef6343bb49b45d156a63b046cf89cda}} 
+Print\+Writer {\bfseries get\+Output} ()
+\item 
+\mbox{\Hypertarget{class_student_library_1_1_student_result_a9f282e68a8a5012d56ddb34560d60699}\label{class_student_library_1_1_student_result_a9f282e68a8a5012d56ddb34560d60699}} 
+void {\bfseries set\+Output} (Print\+Writer output)
+\item 
+\mbox{\Hypertarget{class_student_library_1_1_student_result_ae97826ac854810f7ca1118d13e87f26b}\label{class_student_library_1_1_student_result_ae97826ac854810f7ca1118d13e87f26b}} 
+void {\bfseries set\+Output} (String pathname)  throws File\+Not\+Found\+Exception      
+\item 
+\mbox{\Hypertarget{class_student_library_1_1_student_result_ad4d9894195f361837563f498558e73ce}\label{class_student_library_1_1_student_result_ad4d9894195f361837563f498558e73ce}} 
+Array\+List$<$ \mbox{\hyperlink{class_student_library_1_1_student}{Student}} $>$ {\bfseries get\+Students} ()
+\item 
+\mbox{\Hypertarget{class_student_library_1_1_student_result_aaf4d2685543ae00f69b1ecfbd2c2cce7}\label{class_student_library_1_1_student_result_aaf4d2685543ae00f69b1ecfbd2c2cce7}} 
+void {\bfseries set\+Students} (Array\+List$<$ \mbox{\hyperlink{class_student_library_1_1_student}{Student}} $>$ students)
+\item 
+\mbox{\Hypertarget{class_student_library_1_1_student_result_a835d96d498246b44d0f1f9e0d0ba65f6}\label{class_student_library_1_1_student_result_a835d96d498246b44d0f1f9e0d0ba65f6}} 
+Course\+Schedule {\bfseries get\+Schedule} ()
+\item 
+\mbox{\Hypertarget{class_student_library_1_1_student_result_a046ce11d56de892870d0f236a6d9d3e3}\label{class_student_library_1_1_student_result_a046ce11d56de892870d0f236a6d9d3e3}} 
+void {\bfseries set\+Schedule} (Course\+Schedule schedule)
+\item 
+void \mbox{\hyperlink{class_student_library_1_1_student_result_a2035940095ddb53ae412fda5fdb4573b}{print\+Scheduled\+Students}} ()
+\item 
+void \mbox{\hyperlink{class_student_library_1_1_student_result_abdf6d4e9a49caf2a40cb57aa243347de}{print\+Unscheduled\+Students}} ()
+\item 
+int \mbox{\hyperlink{class_student_library_1_1_student_result_a515f71842553ac7edd3520b1005c6122}{get\+Num\+Scheduled\+Students}} ()
+\item 
+int \mbox{\hyperlink{class_student_library_1_1_student_result_a121e6c8b523fcb4137b22ff12bc0e6c9}{get\+Num\+Unscheduled\+Students}} ()
+\item 
+int \mbox{\hyperlink{class_student_library_1_1_student_result_a37ea5bec5615d1857e496e223fc09cfb}{get\+Total\+Students}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+This class interact with the Course\+Schedule to get the final information of each student. It will output the result into a new text file, named by user input 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_student_library_1_1_student_result_a515f71842553ac7edd3520b1005c6122}\label{class_student_library_1_1_student_result_a515f71842553ac7edd3520b1005c6122}} 
+\index{StudentLibrary.StudentResult@{StudentLibrary.StudentResult}!getNumScheduledStudents@{getNumScheduledStudents}}
+\index{getNumScheduledStudents@{getNumScheduledStudents}!StudentLibrary.StudentResult@{StudentLibrary.StudentResult}}
+\doxysubsubsection{\texorpdfstring{getNumScheduledStudents()}{getNumScheduledStudents()}}
+{\footnotesize\ttfamily int Student\+Library.\+Student\+Result.\+get\+Num\+Scheduled\+Students (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Get scheduled student \begin{DoxyReturn}{Returns}
+total amount of scheduled student 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_student_library_1_1_student_result_a121e6c8b523fcb4137b22ff12bc0e6c9}\label{class_student_library_1_1_student_result_a121e6c8b523fcb4137b22ff12bc0e6c9}} 
+\index{StudentLibrary.StudentResult@{StudentLibrary.StudentResult}!getNumUnscheduledStudents@{getNumUnscheduledStudents}}
+\index{getNumUnscheduledStudents@{getNumUnscheduledStudents}!StudentLibrary.StudentResult@{StudentLibrary.StudentResult}}
+\doxysubsubsection{\texorpdfstring{getNumUnscheduledStudents()}{getNumUnscheduledStudents()}}
+{\footnotesize\ttfamily int Student\+Library.\+Student\+Result.\+get\+Num\+Unscheduled\+Students (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Get Unscheduled student \begin{DoxyReturn}{Returns}
+total amount of unscheduled student 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_student_library_1_1_student_result_a37ea5bec5615d1857e496e223fc09cfb}\label{class_student_library_1_1_student_result_a37ea5bec5615d1857e496e223fc09cfb}} 
+\index{StudentLibrary.StudentResult@{StudentLibrary.StudentResult}!getTotalStudents@{getTotalStudents}}
+\index{getTotalStudents@{getTotalStudents}!StudentLibrary.StudentResult@{StudentLibrary.StudentResult}}
+\doxysubsubsection{\texorpdfstring{getTotalStudents()}{getTotalStudents()}}
+{\footnotesize\ttfamily int Student\+Library.\+Student\+Result.\+get\+Total\+Students (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Get all students \begin{DoxyReturn}{Returns}
+total amount of student 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_student_library_1_1_student_result_a2035940095ddb53ae412fda5fdb4573b}\label{class_student_library_1_1_student_result_a2035940095ddb53ae412fda5fdb4573b}} 
+\index{StudentLibrary.StudentResult@{StudentLibrary.StudentResult}!printScheduledStudents@{printScheduledStudents}}
+\index{printScheduledStudents@{printScheduledStudents}!StudentLibrary.StudentResult@{StudentLibrary.StudentResult}}
+\doxysubsubsection{\texorpdfstring{printScheduledStudents()}{printScheduledStudents()}}
+{\footnotesize\ttfamily void Student\+Library.\+Student\+Result.\+print\+Scheduled\+Students (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Display all Scheduled Students \mbox{\Hypertarget{class_student_library_1_1_student_result_abdf6d4e9a49caf2a40cb57aa243347de}\label{class_student_library_1_1_student_result_abdf6d4e9a49caf2a40cb57aa243347de}} 
+\index{StudentLibrary.StudentResult@{StudentLibrary.StudentResult}!printUnscheduledStudents@{printUnscheduledStudents}}
+\index{printUnscheduledStudents@{printUnscheduledStudents}!StudentLibrary.StudentResult@{StudentLibrary.StudentResult}}
+\doxysubsubsection{\texorpdfstring{printUnscheduledStudents()}{printUnscheduledStudents()}}
+{\footnotesize\ttfamily void Student\+Library.\+Student\+Result.\+print\+Unscheduled\+Students (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Display all Unscheduled students 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Student\+Result.\+java\end{DoxyCompactItemize}

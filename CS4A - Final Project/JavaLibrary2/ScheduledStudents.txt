@@ -1,0 +1,857 @@
+Name: Brockie Woollhead
+Email: bwoollhead0@uol.com
+Telephone: 540-574-8698
+Address: 1 Elka Alley, Roanoke, Virginia 24014
+Personal ID: 97
+Birth Date: 12/09/1991
+Current GPA: 2.05
+Date Enrolled: 03/23/2017
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Greg Vaulkhard
+Email: gvaulkhard1@indiatimes.com
+Telephone: 760-462-0000
+Address: 23967 Knutson Way, Carlsbad, California 92013
+Personal ID: 59
+Birth Date: 08/14/1997
+Current GPA: 2.08
+Date Enrolled: 05/03/2017
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+-----
+
+Name: Odessa Shaxby
+Email: oshaxby2@biblegateway.com
+Telephone: 651-766-3343
+Address: 6 Killdeer Plaza, Saint Paul, Minnesota 55172
+Personal ID: 98
+Birth Date: 05/03/1999
+Current GPA: 1.15
+Date Enrolled: 03/30/2018
+
+Session ID: 67715 Course ID: ACCT1B
+ Managerial Accounting
+
+-----
+
+Name: Margie O'Giany
+Email: mogiany3@facebook.com
+Telephone: 757-720-6257
+Address: 05 Hoepker Lane, Herndon, Virginia 22070
+Personal ID: 71
+Birth Date: 09/07/1994
+Current GPA: 0.49
+Date Enrolled: 08/13/2018
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Gram Gendricke
+Email: ggendricke4@wikia.com
+Telephone: 865-818-4127
+Address: 56320 Oakridge Place, Knoxville, Tennessee 37995
+Personal ID: 90
+Birth Date: 07/29/2000
+Current GPA: 2.03
+Date Enrolled: 05/03/2018
+
+Session ID: 62888 Course ID: ACCT1A
+ Financial Accounting
+
+Session ID: 14115 Course ID: CS1C
+ Introduction To Computer Science III
+
+Session ID: 76420 Course ID: MATH3B
+ Analytic Geometry And Calculus II
+
+Session ID: 26909 Course ID: MUC1
+ The Basis Of Music
+
+-----
+
+Name: Damien Kennally
+Email: dkennally5@japanpost.com
+Telephone: 336-603-7060
+Address: 7 Dunning Center, Greensboro, North Carolina 27409
+Personal ID: 45
+Birth Date: 02/28/1998
+Current GPA: 3.31
+Date Enrolled: 05/24/2017
+
+Session ID: 67715 Course ID: ACCT1B
+ Managerial Accounting
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+-----
+
+Name: Padget Garrison
+Email: pgarrison6@exblog.com
+Telephone: 423-119-9176
+Address: 8862 Moland Center, Kingsport, Tennessee 37665
+Personal ID: 91
+Birth Date: 09/02/1994
+Current GPA: 3.27
+Date Enrolled: 01/23/2017
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Joseito Pimme
+Email: jpimme7@altervista.com
+Telephone: 918-657-4531
+Address: 66930 Brickson Park, Tulsa, Oklahoma 74141
+Personal ID: 53
+Birth Date: 12/23/1998
+Current GPA: 1.87
+Date Enrolled: 08/31/2018
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+Session ID: 26909 Course ID: MUC1
+ The Basis Of Music
+
+-----
+
+Name: Evonne Pyne
+Email: epyne8@alibaba.com
+Telephone: 512-619-3556
+Address: 99582 Mockingbird, Austin, Texas 78754
+Personal ID: 65
+Birth Date: 08/24/1995
+Current GPA: 2.45
+Date Enrolled: 08/27/2017
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+-----
+
+Name: Aurelia Jesper
+Email: ajesper9@admin.com
+Telephone: 407-974-1737
+Address: 227 Glendale Lane, Orlando, Florida 32835
+Personal ID: 101
+Birth Date: 08/17/2000
+Current GPA: 3.9
+Date Enrolled: 02/27/2017
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Tammy Pendered
+Email: tpendereda@1und1.com
+Telephone: 702-629-7253
+Address: 910 Oakridge Junction, Las Vegas, Nevada 89193
+Personal ID: 9
+Birth Date: 09/17/1999
+Current GPA: 1.08
+Date Enrolled: 11/11/2016
+
+Session ID: 67715 Course ID: ACCT1B
+ Managerial Accounting
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 102511 Course ID: FILM40
+ Mass Media And Society
+
+-----
+
+Name: Lenard Dunsford
+Email: ldunsfordb@irs.com
+Telephone: 859-661-5442
+Address: 70382 Lotheville, Lexington, Kentucky 40546
+Personal ID: 31
+Birth Date: 03/20/2000
+Current GPA: 2.98
+Date Enrolled: 05/28/2017
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+-----
+
+Name: Dorian O'Flaherty
+Email: doflahertyc@discuz.net
+Telephone: 763-349-4498
+Address: 3 Brickson Park Circle, Monticello, Minnesota 55585
+Personal ID: 88
+Birth Date: 07/04/1994
+Current GPA: 2.0
+Date Enrolled: 10/16/2017
+
+Session ID: 14115 Course ID: CS1C
+ Introduction To Computer Science III
+
+-----
+
+Name: Trixie Gresser
+Email: tgresserd@wp.com
+Telephone: 512-580-7063
+Address: 2 Independence Place, Austin, Texas 78726
+Personal ID: 99
+Birth Date: 05/08/1997
+Current GPA: 2.51
+Date Enrolled: 10/11/2018
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Vernen Avent
+Email: vavente@myspace.com
+Telephone: 760-167-3213
+Address: 1379 Packers Junction, San Diego, California 92121
+Personal ID: 73
+Birth Date: 08/28/1993
+Current GPA: 0.35
+Date Enrolled: 08/05/2017
+
+Session ID: 67715 Course ID: ACCT1B
+ Managerial Accounting
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 102511 Course ID: FILM40
+ Mass Media And Society
+
+-----
+
+Name: Ransell Harroway
+Email: rharrowayf@shutterfly.com
+Telephone: 915-338-2722
+Address: 90805 2nd Court, El Paso, Texas 88579
+Personal ID: 20
+Birth Date: 05/10/1994
+Current GPA: 3.63
+Date Enrolled: 12/23/2018
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Morena Joly
+Email: mjolyg@cbsnews.com
+Telephone: 760-671-5885
+Address: 1139 Gardens Lane, San Bernardino, California 92415
+Personal ID: 58
+Birth Date: 05/02/1996
+Current GPA: 0.24
+Date Enrolled: 12/21/2016
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 105993 Course ID: BIO1L
+ The Life Science Laboratory
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+-----
+
+Name: Sarine Claybourn
+Email: sclaybournh@auda.com
+Telephone: 702-817-6483
+Address: 4473 Fairfield Street, Las Vegas, Nevada 89145
+Personal ID: 140
+Birth Date: 07/24/1994
+Current GPA: 1.56
+Date Enrolled: 06/16/2018
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Cart Kirtland
+Email: ckirtlandi@ow.ly
+Telephone: 269-166-2991
+Address: 259 Blackbird Avenue, Battle Creek, Michigan 49018
+Personal ID: 34
+Birth Date: 11/04/1997
+Current GPA: 3.82
+Date Enrolled: 04/03/2017
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+-----
+
+Name: James Huggill
+Email: mhuggillj@mozilla.com
+Telephone: 916-996-4619
+Address: 2099 Jenifer Hill, Sacramento, California 94291
+Personal ID: 127
+Birth Date: 12/22/1995
+Current GPA: 3.23
+Date Enrolled: 04/24/2019
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Lexine Stroulger
+Email: lstroulgerk@washington.edu
+Telephone: 907-510-7357
+Address: 1754 Lillian Pass, Fairbanks, Alaska 99709
+Personal ID: 141
+Birth Date: 10/16/1992
+Current GPA: 2.97
+Date Enrolled: 07/21/2019
+
+Session ID: 67715 Course ID: ACCT1B
+ Managerial Accounting
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 102511 Course ID: FILM40
+ Mass Media And Society
+
+-----
+
+Name: Colman Glasard
+Email: cglasardl@auda.org.au
+Telephone: 718-603-3856
+Address: 79 Sachs Terrace, Bronx, New York 10454
+Personal ID: 39
+Birth Date: 02/13/1995
+Current GPA: 3.48
+Date Enrolled: 09/05/2016
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Garek Halstead
+Email: ghalsteadm@mayoclinic.com
+Telephone: 571-199-5581
+Address: 1339 Merry Drive, Fairfax, Virginia 22036
+Personal ID: 125
+Birth Date: 10/08/1999
+Current GPA: 3.76
+Date Enrolled: 11/20/2016
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Bernie Branford
+Email: bbranfordn@discuz.net
+Telephone: 209-321-8012
+Address: 8589 1st Crossing, Fresno, California 93726
+Personal ID: 25
+Birth Date: 12/18/1997
+Current GPA: 1.92
+Date Enrolled: 12/11/2018
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Ardenia Reedick
+Email: areedicko@netscape.com
+Telephone: 425-704-4967
+Address: 53 Holy Cross Place, Seattle, Washington 98109
+Personal ID: 36
+Birth Date: 05/16/1997
+Current GPA: 1.15
+Date Enrolled: 09/07/2017
+
+Session ID: 67715 Course ID: ACCT1B
+ Managerial Accounting
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 102511 Course ID: FILM40
+ Mass Media And Society
+
+-----
+
+Name: Belva Toynbee
+Email: btoynbeep@people.com.cn
+Telephone: 602-916-7515
+Address: 120 Cordelia Point, Scottsdale, Arizona 85260
+Personal ID: 92
+Birth Date: 12/09/2000
+Current GPA: 0.85
+Date Enrolled: 04/09/2019
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+-----
+
+Name: Allen Balsom
+Email: abalsomq@nhs.uk
+Telephone: 254-508-9257
+Address: 962 New Castle Terrace, Temple, Texas 76505
+Personal ID: 1
+Birth Date: 03/25/1994
+Current GPA: 2.26
+Date Enrolled: 04/02/2019
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Lanae Ilchenko
+Email: lilchenkos@sohu.com
+Telephone: 212-591-1321
+Address: 6381 Rockefeller, New York City, New York 10184
+Personal ID: 82
+Birth Date: 02/12/1991
+Current GPA: 3.25
+Date Enrolled: 01/17/2019
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Amie Medmore
+Email: amedmoret@tripod.com
+Telephone: 512-119-8118
+Address: 547 Transport Trail, Austin, Texas 78749
+Personal ID: 18
+Birth Date: 08/04/1998
+Current GPA: 2.37
+Date Enrolled: 12/21/2016
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Gabbi Huggard
+Email: ghuggardu@hao123.com
+Telephone: 540-623-1352
+Address: 18 Fallview Plaza, Roanoke, Virginia 24014
+Personal ID: 135
+Birth Date: 01/01/1993
+Current GPA: 2.26
+Date Enrolled: 06/16/2017
+
+Session ID: 67715 Course ID: ACCT1B
+ Managerial Accounting
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 102511 Course ID: FILM40
+ Mass Media And Society
+
+-----
+
+Name: Aldwin Gilhool
+Email: agilhoolw@huffingtonpost.com
+Telephone: 505-964-9915
+Address: 95 Riverside Circle, Albuquerque, New Mexico 87201
+Personal ID: 75
+Birth Date: 01/12/1995
+Current GPA: 1.53
+Date Enrolled: 02/06/2019
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Fredia Garry
+Email: fgarryx@github.com
+Telephone: 205-187-1708
+Address: 811 Sloan Driv, Birmingham, Alabama 35210
+Personal ID: 76
+Birth Date: 02/06/1995
+Current GPA: 0.36
+Date Enrolled: 05/15/2018
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Mario Shevell
+Email: mshevelly@hud.gov
+Telephone: 303-586-0392
+Address: 6 Blue Bill Park, Englewood, Colorado 80150
+Personal ID: 68
+Birth Date: 09/18/2000
+Current GPA: 2.67
+Date Enrolled: 07/20/2018
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+-----
+
+Name: Bria Bisgrove
+Email: bbisgrovez@house.gov
+Telephone: 831-355-2308
+Address: 282 Grover Trail, Salinas, California 93907
+Personal ID: 7
+Birth Date: 02/02/1993
+Current GPA: 1.09
+Date Enrolled: 02/19/2018
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Mayor Cocci
+Email: mcocci10@topsy.com
+Telephone: 240-968-8728
+Address: 320 2nd Plaza, Bethesda, Maryland 20816
+Personal ID: 77
+Birth Date: 08/12/1993
+Current GPA: 2.84
+Date Enrolled: 03/16/2019
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Currey Maccrea
+Email: cmaccrea11@qq.com
+Telephone: 309-319-2012
+Address: 72820 Bunker Hill Way, Peoria, Illinois 61635
+Personal ID: 112
+Birth Date: 05/05/1993
+Current GPA: 2.67
+Date Enrolled: 05/06/2017
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+-----
+
+Name: Katus Carlson
+Email: kcarlson12@gmail.com
+Telephone: 202-543-4568
+Address: 37 Banding Crossing, Washington, Columbia 20456
+Personal ID: 120
+Birth Date: 02/16/2000
+Current GPA: 2.94
+Date Enrolled: 11/08/2017
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Hynda Yvens
+Email: hyvens14@biglobe.ne.jp
+Telephone: 412-330-8799
+Address: 164 Sachtjen Crossing, Mc Keesport, Pennsylvania 15134
+Personal ID: 95
+Birth Date: 02/19/1998
+Current GPA: 3.84
+Date Enrolled: 09/14/2018
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Stuart Bramsen
+Email: sbramsen15@sbwire.com
+Telephone: 330-963-5754
+Address: 3 Hanson Park, Akron, Ohio 44310
+Personal ID: 81
+Birth Date: 10/31/1999
+Current GPA: 1.46
+Date Enrolled: 04/27/2019
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Ondrea Hartnell
+Email: ohartnell16@youku.com
+Telephone: 501-209-2349
+Address: 94 Manley Trail, Little 	Rock, Arkansas 72231
+Personal ID: 41
+Birth Date: 12/06/1998
+Current GPA: 2.16
+Date Enrolled: 10/13/2017
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Elysia Bilyard
+Email: ebilyard17@canalblog.com
+Telephone: 602-431-7194
+Address: 625 Troy Plaza, Phoenix, Arizona 85099
+Personal ID: 87
+Birth Date: 05/10/1998
+Current GPA: 2.35
+Date Enrolled: 07/26/2018
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Camile Piddle
+Email: cpiddle18@yolasite.com
+Telephone: 413-826-5552
+Address: 238 Havey Plaza, Springfield, Massachusetts 1152
+Personal ID: 78
+Birth Date: 04/18/1996
+Current GPA: 1.51
+Date Enrolled: 03/23/2017
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+-----
+
+Name: Benede Satford
+Email: bsatford19@blinklist.com
+Telephone: 503-432-8392
+Address: 22630 Delaware Drive, Portland, Oregon 97229
+Personal ID: 37
+Birth Date: 03/17/1999
+Current GPA: 2.18
+Date Enrolled: 09/01/2016
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Harmon Pugh
+Email: hpugh1a@webmd.com
+Telephone: 240-719-6371
+Address: 4458 Spenser Parkway, Gaithersburg, Maryland 20883
+Personal ID: 118
+Birth Date: 03/26/1999
+Current GPA: 3.27
+Date Enrolled: 01/15/2018
+
+Session ID: 75729 Course ID: CS1D
+ Data Structure
+
+Session ID: 33017 Course ID: CS4A
+ Introduction To Java
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Glyn Smee
+Email: gsmee1b@wikipedia.org
+Telephone: 412-806-4296
+Address: 22307 Westport Parkway, Pittsburgh, Pennsylvania 15240
+Personal ID: 46
+Birth Date: 04/23/1993
+Current GPA: 1.56
+Date Enrolled: 11/30/2018
+
+Session ID: 66546 Course ID: BIO1
+ The Life Science
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 47416 Course ID: CS1A
+ Introduction To Computer Science I
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+
+Name: Melanie Langmaid
+Email: mlangmaid1d@bloglines.com
+Telephone: 214-241-9437
+Address: 4371 Raven Pass, Dallas, Texas 75277
+Personal ID: 149
+Birth Date: 06/30/1995
+Current GPA: 0.37
+Date Enrolled: 11/30/2016
+
+Session ID: 33478 Course ID: BIO5
+ Animal Biology
+
+Session ID: 73317 Course ID: MATH3A
+ Analytic Geometry And Calculus I
+
+-----
+

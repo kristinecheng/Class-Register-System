@@ -1,0 +1,89 @@
+\hypertarget{class_course_scheduler_1_1_course_schedule}{}\doxysection{Course\+Scheduler.\+Course\+Schedule Class Reference}
+\label{class_course_scheduler_1_1_course_schedule}\index{CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_course_scheduler_1_1_course_schedule_ac15baba526abf8ded938cb8b9b152bd0}\label{class_course_scheduler_1_1_course_schedule_ac15baba526abf8ded938cb8b9b152bd0}} 
+{\bfseries Course\+Schedule} (Array\+List$<$ Sessions $>$ sessions\+List)
+\item 
+\mbox{\Hypertarget{class_course_scheduler_1_1_course_schedule_af3b45f01ae0fac371c425fdc451a29aa}\label{class_course_scheduler_1_1_course_schedule_af3b45f01ae0fac371c425fdc451a29aa}} 
+Array\+List$<$ Sessions $>$ {\bfseries get\+Sessions\+List} ()
+\item 
+\mbox{\Hypertarget{class_course_scheduler_1_1_course_schedule_a820633ec0f5594390586481d01c4b450}\label{class_course_scheduler_1_1_course_schedule_a820633ec0f5594390586481d01c4b450}} 
+void {\bfseries set\+Sessions\+List} (Array\+List$<$ Sessions $>$ sessions\+List)
+\item 
+Array\+List$<$ Sessions $>$ \mbox{\hyperlink{class_course_scheduler_1_1_course_schedule_a637bb47a8fe48f5495f9c1d2552354c9}{get\+Student\+Scheduel}} (Student student)
+\item 
+Array\+List$<$ Sessions $>$ \mbox{\hyperlink{class_course_scheduler_1_1_course_schedule_a4bb88522053f5b117c55dd74a55177f7}{get\+Faculty\+Scheduel}} (Faculty instructor)
+\item 
+Array\+List$<$ Sessions $>$ \mbox{\hyperlink{class_course_scheduler_1_1_course_schedule_a9ede7b847d37dcb8cebf733f9e3ce6a0}{get\+Scheduled\+Courses}} (Course course)
+\item 
+boolean \mbox{\hyperlink{class_course_scheduler_1_1_course_schedule_a943d647e0028f39c2062cc1032305d8c}{Scheduled\+Session}} (Course course)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+This class generate out the session list for students, faculties, and courses. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_course_scheduler_1_1_course_schedule_a4bb88522053f5b117c55dd74a55177f7}\label{class_course_scheduler_1_1_course_schedule_a4bb88522053f5b117c55dd74a55177f7}} 
+\index{CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}!getFacultyScheduel@{getFacultyScheduel}}
+\index{getFacultyScheduel@{getFacultyScheduel}!CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}}
+\doxysubsubsection{\texorpdfstring{getFacultyScheduel()}{getFacultyScheduel()}}
+{\footnotesize\ttfamily Array\+List$<$Sessions$>$ Course\+Scheduler.\+Course\+Schedule.\+get\+Faculty\+Scheduel (\begin{DoxyParamCaption}\item[{Faculty}]{instructor }\end{DoxyParamCaption})}
+
+Generate the Faculty Schedule 
+\begin{DoxyParams}{Parameters}
+{\em instructor} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Sessions type of Array\+List 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_course_scheduler_1_1_course_schedule_a9ede7b847d37dcb8cebf733f9e3ce6a0}\label{class_course_scheduler_1_1_course_schedule_a9ede7b847d37dcb8cebf733f9e3ce6a0}} 
+\index{CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}!getScheduledCourses@{getScheduledCourses}}
+\index{getScheduledCourses@{getScheduledCourses}!CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}}
+\doxysubsubsection{\texorpdfstring{getScheduledCourses()}{getScheduledCourses()}}
+{\footnotesize\ttfamily Array\+List$<$Sessions$>$ Course\+Scheduler.\+Course\+Schedule.\+get\+Scheduled\+Courses (\begin{DoxyParamCaption}\item[{Course}]{course }\end{DoxyParamCaption})}
+
+Get Scheduled Courses List 
+\begin{DoxyParams}{Parameters}
+{\em course} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+sessions type of Array\+List 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_course_scheduler_1_1_course_schedule_a637bb47a8fe48f5495f9c1d2552354c9}\label{class_course_scheduler_1_1_course_schedule_a637bb47a8fe48f5495f9c1d2552354c9}} 
+\index{CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}!getStudentScheduel@{getStudentScheduel}}
+\index{getStudentScheduel@{getStudentScheduel}!CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}}
+\doxysubsubsection{\texorpdfstring{getStudentScheduel()}{getStudentScheduel()}}
+{\footnotesize\ttfamily Array\+List$<$Sessions$>$ Course\+Scheduler.\+Course\+Schedule.\+get\+Student\+Scheduel (\begin{DoxyParamCaption}\item[{Student}]{student }\end{DoxyParamCaption})}
+
+Student Schedule 
+\begin{DoxyParams}{Parameters}
+{\em student} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+sessions type of Array\+List() 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_course_scheduler_1_1_course_schedule_a943d647e0028f39c2062cc1032305d8c}\label{class_course_scheduler_1_1_course_schedule_a943d647e0028f39c2062cc1032305d8c}} 
+\index{CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}!ScheduledSession@{ScheduledSession}}
+\index{ScheduledSession@{ScheduledSession}!CourseScheduler.CourseSchedule@{CourseScheduler.CourseSchedule}}
+\doxysubsubsection{\texorpdfstring{ScheduledSession()}{ScheduledSession()}}
+{\footnotesize\ttfamily boolean Course\+Scheduler.\+Course\+Schedule.\+Scheduled\+Session (\begin{DoxyParamCaption}\item[{Course}]{course }\end{DoxyParamCaption})}
+
+Check if the session of that course is scheduled 
+\begin{DoxyParams}{Parameters}
+{\em course} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+true/false 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Course\+Schedule.\+java\end{DoxyCompactItemize}

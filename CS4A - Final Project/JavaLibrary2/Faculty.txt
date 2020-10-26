@@ -1,0 +1,675 @@
+Name: Dolan Aguilar
+Email: mi@pellentesquetellussem.com
+Telephone: 164-20528-2769
+Address: Ap #453-8217 Eu Ave, Metro, Nevada 89193
+Personal ID: 12Date Hired: 05/03/2009
+Tnured
+
+CS1A:  Introduction To Computer Science I 
+Instructor: Dolan Aguilar
+ID: #12
+Students: 11
+
+Brockie Woollhead
+ID: #97
+
+Margie O'Giany
+ID: #71
+
+Damien Kennally
+ID: #45
+
+Padget Garrison
+ID: #91
+
+Trixie Gresser
+ID: #99
+
+Sarine Claybourn
+ID: #140
+
+Garek Halstead
+ID: #125
+
+Allen Balsom
+ID: #1
+
+Bria Bisgrove
+ID: #7
+
+Ondrea Hartnell
+ID: #41
+
+Glyn Smee
+ID: #46
+
+
+CS1A:  Introduction To Computer Science I 
+Instructor: Dolan Aguilar
+ID: #12
+Students: 0
+
+
+-----
+
+Name: Kaye Mcfarland
+Email: nisi.nibh.lacinia@feugiat.org
+Telephone: 164-20909-4525
+Address: 850 Mollis Street, Austin, Kentucky 40546
+Personal ID: 24Date Hired: 01/30/2016
+Not Tnured
+
+BIO1:  The Life Science 
+Instructor: Kaye Mcfarland
+ID: #24
+Students: 14
+
+Margie O'Giany
+ID: #71
+
+Tammy Pendered
+ID: #9
+
+Trixie Gresser
+ID: #99
+
+Vernen Avent
+ID: #73
+
+Morena Joly
+ID: #58
+
+Sarine Claybourn
+ID: #140
+
+Lexine Stroulger
+ID: #141
+
+Garek Halstead
+ID: #125
+
+Ardenia Reedick
+ID: #36
+
+Allen Balsom
+ID: #1
+
+Gabbi Huggard
+ID: #135
+
+Bria Bisgrove
+ID: #7
+
+Ondrea Hartnell
+ID: #41
+
+Glyn Smee
+ID: #46
+
+
+BIO1:  The Life Science 
+Instructor: Kaye Mcfarland
+ID: #24
+Students: 0
+
+
+-----
+
+Name: Holmes Gregory
+Email: sit.amet.diam@dolorDonecfringilla.ca
+Telephone: 166-40913-4993
+Address: 3576 Eu Ave, Gimpo, Minnesota 55585
+Personal ID: 9Date Hired: 09/27/2005
+Tnured
+
+CS1A:  Introduction To Computer Science I 
+Instructor: Holmes Gregory
+ID: #9
+Students: 0
+
+
+-----
+
+Name: Jemima Cruz
+Email: non.justo@velitduisemper.com
+Telephone: 163-50119-5733
+Address: 3758 Rhoncus. Avenue, Palermo, Texas 78726
+Personal ID: 7Date Hired: 08/08/2013
+Tnured
+
+CS4A:  Introduction To Java 
+Instructor: Jemima Cruz
+ID: #7
+Students: 13
+
+Greg Vaulkhard
+ID: #59
+
+Evonne Pyne
+ID: #65
+
+Lenard Dunsford
+ID: #31
+
+Cart Kirtland
+ID: #34
+
+James Huggill
+ID: #127
+
+Belva Toynbee
+ID: #92
+
+Fredia Garry
+ID: #76
+
+Mario Shevell
+ID: #68
+
+Currey Maccrea
+ID: #112
+
+Hynda Yvens
+ID: #95
+
+Elysia Bilyard
+ID: #87
+
+Camile Piddle
+ID: #78
+
+Harmon Pugh
+ID: #118
+
+
+CS4A:  Introduction To Java 
+Instructor: Jemima Cruz
+ID: #7
+Students: 0
+
+
+-----
+
+Name: Eagan Nicholson
+Email: Nulla.interdum.Curabitur@Integer.com
+Telephone: 164-50625-3139
+Address: 6331 Rutrum Rd., Dublin, California 92121
+Personal ID: 10Date Hired: 09/25/2003
+Not Tnured
+
+MATH2:  Pre Calculus 
+Instructor: Eagan Nicholson
+ID: #10
+Students: 0
+
+
+MATH2:  Pre Calculus 
+Instructor: Eagan Nicholson
+ID: #10
+Students: 0
+
+
+-----
+
+Name: Odessa Jones
+Email: magna.Phasellus@velfaucibusid.co.uk
+Telephone: 166-70605-7459
+Address: 244 Adipiscing, Austin, Texas 88579
+Personal ID: 44Date Hired: 09/16/2010
+Not Tnured
+
+MATH3B:  Analytic Geometry And Calculus II 
+Instructor: Odessa Jones
+ID: #44
+Students: 1
+
+Gram Gendricke
+ID: #90
+
+
+MATH3B:  Analytic Geometry And Calculus II 
+Instructor: Odessa Jones
+ID: #44
+Students: 0
+
+
+-----
+
+Name: Cailin Burke
+Email: et@etultricesposuere.edu
+Telephone: 165-60301-8663
+Address: 6955 Ornare St., Great Falls, California 92415
+Personal ID: 18Date Hired: 09/01/2008
+Tnured
+
+CS1C:  Introduction To Computer Science III 
+Instructor: Cailin Burke
+ID: #18
+Students: 2
+
+Gram Gendricke
+ID: #90
+
+Dorian O'Flaherty
+ID: #88
+
+
+CS1C:  Introduction To Computer Science III 
+Instructor: Cailin Burke
+ID: #18
+Students: 0
+
+
+-----
+
+Name: Britanni Bishop
+Email: felis.orci.adipiscing@nislNullaeu.ca
+Telephone: 161-61213-4757
+Address: 9116 Nunc Rd., Bendigo, Nevada 89145
+Personal ID: 13Date Hired: 01/24/2015
+Tnured
+
+ACCT1A:  Financial Accounting 
+Instructor: Britanni Bishop
+ID: #13
+Students: 1
+
+Gram Gendricke
+ID: #90
+
+
+ACCT1A:  Financial Accounting 
+Instructor: Britanni Bishop
+ID: #13
+Students: 0
+
+
+-----
+
+Name: Hector Saunders
+Email: sapien@lacusvariuset.edu
+Telephone: 166-70205-0193
+Address: 8274 Mi. Avenue, Nushki, Michigan 49018
+Personal ID: 8Date Hired: 06/14/2003
+Not Tnured
+
+ACCT1B:  Managerial Accounting 
+Instructor: Hector Saunders
+ID: #8
+Students: 7
+
+Odessa Shaxby
+ID: #98
+
+Damien Kennally
+ID: #45
+
+Tammy Pendered
+ID: #9
+
+Vernen Avent
+ID: #73
+
+Lexine Stroulger
+ID: #141
+
+Ardenia Reedick
+ID: #36
+
+Gabbi Huggard
+ID: #135
+
+
+ACCT1B:  Managerial Accounting 
+Instructor: Hector Saunders
+ID: #8
+Students: 0
+
+
+-----
+
+Name: Martena Shepard
+Email: faucibus.lectus@ac.net
+Telephone: 166-50523-3475
+Address: 7025 Vitae St., Sevsk, California 94291
+Personal ID: 46Date Hired: 08/25/2018
+Not Tnured
+
+FILM40:  Mass Media And Society 
+Instructor: Martena Shepard
+ID: #46
+Students: 5
+
+Tammy Pendered
+ID: #9
+
+Vernen Avent
+ID: #73
+
+Lexine Stroulger
+ID: #141
+
+Ardenia Reedick
+ID: #36
+
+Gabbi Huggard
+ID: #135
+
+
+FILM40:  Mass Media And Society 
+Instructor: Martena Shepard
+ID: #46
+Students: 0
+
+
+-----
+
+Name: Gretchen West
+Email: dis.parturient.montes@idenimCurabitur.net
+Telephone: 166-70517-7654
+Address: 9687 Euismod Av., Cork, Alaska 99709
+Personal ID: 6Date Hired: 07/11/2000
+Tnured
+
+ACCT1A:  Financial Accounting 
+Instructor: Gretchen West
+ID: #6
+Students: 0
+
+
+FILM40:  Mass Media And Society 
+Instructor: Gretchen West
+ID: #6
+Students: 0
+
+
+-----
+
+Name: Bruno Wilkerson
+Email: tincidunt.nibh.Phasellus@auctorMaurisvel.edu
+Telephone: 168-90522-9418
+Address: 2989 Gravida St., Berlin, New York 10454
+Personal ID: 23Date Hired: 02/20/2007
+Not Tnured
+
+CS1D:  Data Structure 
+Instructor: Bruno Wilkerson
+ID: #23
+Students: 14
+
+Greg Vaulkhard
+ID: #59
+
+Joseito Pimme
+ID: #53
+
+Evonne Pyne
+ID: #65
+
+Lenard Dunsford
+ID: #31
+
+Cart Kirtland
+ID: #34
+
+James Huggill
+ID: #127
+
+Belva Toynbee
+ID: #92
+
+Fredia Garry
+ID: #76
+
+Mario Shevell
+ID: #68
+
+Currey Maccrea
+ID: #112
+
+Hynda Yvens
+ID: #95
+
+Elysia Bilyard
+ID: #87
+
+Camile Piddle
+ID: #78
+
+Harmon Pugh
+ID: #118
+
+
+CS1D:  Data Structure 
+Instructor: Bruno Wilkerson
+ID: #23
+Students: 0
+
+
+-----
+
+Name: Leo Whitfield
+Email: commodo.at@ipsum.com
+Telephone: 164-80924-3902
+Address: 1783 Lectus St., Montreal, Virginia 22036
+Personal ID: 1Date Hired: 12/18/2000
+Tnured
+
+CS4A:  Introduction To Java 
+Instructor: Leo Whitfield
+ID: #1
+Students: 0
+
+
+MATH3B:  Analytic Geometry And Calculus II 
+Instructor: Leo Whitfield
+ID: #1
+Students: 0
+
+
+-----
+
+Name: Gail Ball
+Email: nisi.a.odio@ad.com
+Telephone: 166-90627-3336
+Address: 7366 Dui St., Białystok, California 93726
+Personal ID: 34Date Hired: 04/26/2006
+Not Tnured
+
+MATH2:  Pre Calculus 
+Instructor: Gail Ball
+ID: #34
+Students: 0
+
+
+MATH3A:  Analytic Geometry And Calculus I 
+Instructor: Gail Ball
+ID: #34
+Students: 28
+
+Brockie Woollhead
+ID: #97
+
+Margie O'Giany
+ID: #71
+
+Padget Garrison
+ID: #91
+
+Joseito Pimme
+ID: #53
+
+Aurelia Jesper
+ID: #101
+
+Trixie Gresser
+ID: #99
+
+Ransell Harroway
+ID: #20
+
+Sarine Claybourn
+ID: #140
+
+James Huggill
+ID: #127
+
+Colman Glasard
+ID: #39
+
+Garek Halstead
+ID: #125
+
+Bernie Branford
+ID: #25
+
+Allen Balsom
+ID: #1
+
+Lanae Ilchenko
+ID: #82
+
+Amie Medmore
+ID: #18
+
+Aldwin Gilhool
+ID: #75
+
+Fredia Garry
+ID: #76
+
+Bria Bisgrove
+ID: #7
+
+Mayor Cocci
+ID: #77
+
+Katus Carlson
+ID: #120
+
+Hynda Yvens
+ID: #95
+
+Stuart Bramsen
+ID: #81
+
+Ondrea Hartnell
+ID: #41
+
+Elysia Bilyard
+ID: #87
+
+Benede Satford
+ID: #37
+
+Harmon Pugh
+ID: #118
+
+Glyn Smee
+ID: #46
+
+Melanie Langmaid
+ID: #149
+
+
+-----
+
+Name: Fitzgerald Wilkinson
+Email: Aenean@tellusloremeu.com
+Telephone: 167-70615-0666
+Address: 832 Elit St., Silius, Washington 98109
+Personal ID: 11Date Hired: 08/20/2020
+Tnured
+
+CS1C:  Introduction To Computer Science III 
+Instructor: Fitzgerald Wilkinson
+ID: #11
+Students: 0
+
+
+-----
+
+Name: Shana Mason
+Email: neque@enimSednulla.com
+Telephone: 163-70628-1098
+Address: 571 Molestie St., Haarlem, Arizona 85260
+Personal ID: 28Date Hired: 07/08/2020
+Tnured
+
+CS1B:  Introduction To Computer Science II 
+Instructor: Shana Mason
+ID: #28
+Students: 0
+
+
+CS1B:  Introduction To Computer Science II 
+Instructor: Shana Mason
+ID: #28
+Students: 0
+
+
+-----
+
+Name: Nathan Jones
+Email: elit.pharetra@vel.org
+Telephone: 168-70314-3803
+Address: 4976 Dis Ave, Akhisar, Texas 76505
+Personal ID: 3Date Hired: 01/30/2006
+Tnured
+
+CS1B:  Introduction To Computer Science II 
+Instructor: Nathan Jones
+ID: #3
+Students: 0
+
+
+-----
+
+Name: Denton Dotson
+Email: feugiat.nec.diam@tortordictumeu.org
+Telephone: 161-50604-0458
+Address: 2568 Pharetra St., Minneapolis, Florida 33448
+Personal ID: 36Date Hired: 09/08/2013
+Not Tnured
+
+MATH3A:  Analytic Geometry And Calculus I 
+Instructor: Denton Dotson
+ID: #36
+Students: 0
+
+
+MATH3A:  Analytic Geometry And Calculus I 
+Instructor: Denton Dotson
+ID: #36
+Students: 0
+
+
+-----
+
+Name: Kasper Mckay
+Email: sed.dolor.Fusce@consequatnecmollis.com
+Telephone: 165-10811-2151
+Address: 5189 Nec Street, Wichita, New York 10184
+Personal ID: 25Date Hired: 08/06/2018
+Not Tnured
+
+MUC1:  The Basis Of Music 
+Instructor: Kasper Mckay
+ID: #25
+Students: 2
+
+Gram Gendricke
+ID: #90
+
+Joseito Pimme
+ID: #53
+
+
+MUC1:  The Basis Of Music 
+Instructor: Kasper Mckay
+ID: #25
+Students: 0
+
+
+-----
+
